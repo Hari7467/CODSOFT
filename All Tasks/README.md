@@ -1,0 +1,1 @@
+I completed three AI projects: a rule-based chatbot for basic conversational flow, an unbeatable Tic-Tac-Toe AI using Minimax and Alpha-Beta Pruning, and a face detection/recognition system with Haar cascades and advanced techniques. These projects showcase your skills in NLP, game theory, computer vision, and practical AI application development.
